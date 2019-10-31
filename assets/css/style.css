@@ -1,0 +1,6 @@
+.container{
+  margin-top: 10%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
